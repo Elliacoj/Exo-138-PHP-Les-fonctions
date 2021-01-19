@@ -17,7 +17,7 @@ function maFonctionParam($fname, $lname) {
     return $lname;
 }
 
-maFonctionParam(2,1);
+maFonctionParam("Jocaille","Amaury");
 
 
 
